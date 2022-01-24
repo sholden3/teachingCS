@@ -10,7 +10,7 @@ In order to do this, I suggest following through in the order I present. When I 
 
 Currently, this will flow into the following path:
 
-1.  Fundamentals of CS.
+-  Fundamentals of CS.
   1. Intro to CS and the Computer
   2. A Dive into C and How to Compose a Program
   3. The Life of a Program and the Architecture of a Computer
@@ -25,18 +25,18 @@ Currently, this will flow into the following path:
   12. Virtual Machines
   13. Docker
   14. Kubernetes
-2.  Web Development
+-  Web Development
   1.  Intro to the Fundamentals of Web Development
   2.  Dive into JavaScript and TypeScript
   3.  Server Side Programming with Node.js
   4.  Client Side Programming with React and Angular
   5.  A dive into Spring and Spring Boot
   6.  Playing with MicroServices
-3.  Game Development
+-  Game Development
   1.  Intro the Graphics with WebGl
   2.  Getting our feet wet with OpenGl
   3.  A look at UE4 for Game Development
-4.  Data Science
+-  Data Science
   1.  Intro to Data Science
   2.  Dive into Python
   3.  Statistics in Python
