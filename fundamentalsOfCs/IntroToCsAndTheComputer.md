@@ -143,3 +143,44 @@ Now this is a pretty high level view of the hardware, but will suffice for now. 
 
 ### Software
 
+The above hardware components are nice and all, but without software, we wouldn't actually be able to utilize them in any meaningful way. Let's go ahead and give us a simple definition of what software is before we break it up into its three main types. Software is a program that performs different commands that we, as the user, give to it. The three main types of software are:
+
+*  Operating System
+      *  The operating system helps us load the basic program automatically as soon as the computer is started.
+      *  The following three are the main operating systems that you will see:
+            *  Microsoft Windows
+            *  Max OS x
+            *  Linux
+*  Application Software
+      *  This is the software that can be used on your installed os.
+      *  Some of these are:
+            *  Office Programs
+            *  Web Browsers
+            *  Antivirus Programs
+*  E-Accessibility Software
+      *  These are software that grant additional uses to a user:
+            *  Screen Readers
+            *  Video Games
+            *  Learning Software
+
+This is about the depth we are going to go into these at this moment, but throughout our journey, we are going to dive into not only all three types of components, but also the hardware as well. Though someone of these will be on the branching course paths, therefore optional to you.
+
+## Computational Thinking and Algorithms
+
+Now that we have some of the basics out of the way, we can finally look at what you may think of as actually in the domain of computer science (the above is as well, but you'll see what I mean in a second). For this, we want to tackle in two parts. The first is computational thinking, and the second is algorithms. For many people, these two topics are really their first insight into computer science, and a integral part into their journey of being more than just a programmer, but a software engineer.
+
+So before I rant on any longer, we can break computational thinking down into the idea of knowledge. More importantly, declarative knowledge and imperative knowledge. Maybe forbidden knowledge, but that may come more into play later. Let's break out these two types of logic though:
+
+### Declarative Knowledge
+
+We can view declarative knowledge as being composed of statements of facts. An example of this can be the following function for a derivative:
+
+https://render.githubusercontent.com/render/math?math=f'(x)=\lim_{h\arrow0}\frac{f(x+h)-f(x)}{h}
+
+$$
+f'(x)=\lim_{h\arrow0}\frac{f(x+h)-f(x)}{h}
+$$
+
+
+
+
